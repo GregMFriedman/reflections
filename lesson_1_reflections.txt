@@ -1,0 +1,11 @@
+Diff allowed me to filter out things that were the same
+and concentrate on the +'s & -'s 
+Easy access to old versions means you can take more risks
+Manual Commits make your versions more intentional
+but you have to pay attention
+Git allows multiple changes b/c it's primarily designed
+for 1 user at a time, whereas GoogleDocs isn't
+Git log lets you see all changes & times
+Git diff lets you see exact changes & color codes it
+Version control means that you can always undo anything stupid
+I want to use Git to learn Javascript
